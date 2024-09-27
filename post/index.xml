@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Thomas Bordes</title>
+    <link>https://ThomasBrdes.github.io/Thomas_Portfolio/post/</link>
+    <description>Recent content in Projects on Thomas Bordes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://ThomasBrdes.github.io/Thomas_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>🚴‍♀️ Bike Counters Paris analysis</title>
+      <link>https://ThomasBrdes.github.io/Thomas_Portfolio/post/project-1/</link>
+      <pubDate>Tue, 17 Sep 2024 10:58:08 -0400</pubDate>
+      
+      <guid>https://ThomasBrdes.github.io/Thomas_Portfolio/post/project-1/</guid>
+      <description>project_1_bike_count_prediction_example.png
+ 🍃 Data Merging: Combine multiple external datasets (weather ☀️, accidents 🚧, etc.) to enhance our dataset. 🧠 Model Training: Train machine learning models using scikit-learn, XGBoost, and others to predict bike counts 🚴‍♂️.     📊 Prediction Visualization: Generate detailed visualizations 📈 for bike count predictions with folium.    Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>🔫 Automatic turret to protect my garden pond 🐠 from Heron 🦅 (IN PROGRESS)</title>
+      <link>https://ThomasBrdes.github.io/Thomas_Portfolio/post/project-4/</link>
+      <pubDate>Mon, 22 Jul 2024 10:58:08 -0400</pubDate>
+      
+      <guid>https://ThomasBrdes.github.io/Thomas_Portfolio/post/project-4/</guid>
+      <description>🦅 Heron Detection: Identify herons in real-time using YOLOv10 and automatically trigger a Nerf turret to protect the pond.     🧠 Model Fine-Tuning: Train and adapt YOLOv10 to distinguish herons from humans and pets, reducing false alarms. 🛠️ Hardware Setup: Utilize a Raspberry Pi, webcam, and motor controls to automate the turret’s movement and firing.    Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>🦅 Human-Heron Detector</title>
+      <link>https://ThomasBrdes.github.io/Thomas_Portfolio/post/project-2/</link>
+      <pubDate>Fri, 15 Sep 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://ThomasBrdes.github.io/Thomas_Portfolio/post/project-2/</guid>
+      <description>Welcome to the Human-Heron Detector! 👋🦅🧍
+This project is a real-time detection application that uses YOLOv8 and a Streamlit interface to identify humans and herons. It is designed to provide seamless live detection and image processing capabilities.
+ Detect Humans and Herons: Uses YOLOv8 to detect both humans and herons. Streamlit App:  Image Upload: Upload custom images or choose from a gallery of pre-recorded images for detection. Download Annotated Results: Save images with bounding boxes drawn around detected objects.</description>
+    </item>
+    
+    <item>
+      <title>🍸 Cocktails analysis</title>
+      <link>https://ThomasBrdes.github.io/Thomas_Portfolio/post/project-3/</link>
+      <pubDate>Fri, 05 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://ThomasBrdes.github.io/Thomas_Portfolio/post/project-3/</guid>
+      <description>Analysis of cocktail ingredients, revealing patterns, and trends in cocktail recipes 🥂.
+✨ Key Features  🍋 Ingredient Analysis: Uncovers the most common cocktail ingredients and their uses.     📈 Visualizations: Creates detailed plots to illustrate ingredient distribution. 🍹 Clustering: Groups cocktails based on ingredient similarity for insightful trends.    Link to GitHub Repository</description>
+    </item>
+    
+  </channel>
+</rss>
